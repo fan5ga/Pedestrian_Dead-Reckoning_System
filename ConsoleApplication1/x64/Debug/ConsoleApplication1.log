@@ -1,0 +1,32 @@
+﻿  main(1).cpp
+d:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(434): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(435): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(436): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(192): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(194): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(196): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(271): warning C4101: 'charRead': unreferenced local variable
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(520): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(521): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(522): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(523): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(524): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(525): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(526): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(527): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(528): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(529): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(735): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(840): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(1177): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main(1).cpp(475): warning C4715: 'char_to_hex': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\toshiba\documents\visual studio 2017\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\toshiba\documents\visual studio 2017\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb (Partial PDB)

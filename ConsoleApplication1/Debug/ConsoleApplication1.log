@@ -1,0 +1,35 @@
+﻿  main.cpp
+d:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(300): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(301): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(178): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(374): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(375): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(376): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(377): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(378): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(379): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(380): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(381): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(382): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(383): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(589): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(694): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\toshiba\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\main.cpp(1007): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.obj : error LNK2019: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z) referenced in function "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ)
+main.obj : error LNK2019: unresolved external symbol "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z) referenced in function "public: __thiscall cv::String::String(char const *)" (??0String@cv@@QAE@PBD@Z)
+main.obj : error LNK2019: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ) referenced in function "public: __thiscall cv::String::~String(void)" (??1String@cv@@QAE@XZ)
+main.obj : error LNK2019: unresolved external symbol "public: class cv::Mat & __thiscall cv::Mat::operator=(class cv::Scalar_<double> const &)" (??4Mat@cv@@QAEAAV01@ABV?$Scalar_@N@1@@Z) referenced in function "public: __thiscall cv::Mat::Mat(int,int,int,class cv::Scalar_<double> const &)" (??0Mat@cv@@QAE@HHHABV?$Scalar_@N@1@@Z)
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall cv::Mat::create(int,int const *,int)" (?create@Mat@cv@@QAEXHPBHH@Z) referenced in function "public: void __thiscall cv::Mat::create(int,int,int)" (?create@Mat@cv@@QAEXHHH@Z)
+main.obj : error LNK2019: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ) referenced in function "public: void __thiscall cv::Mat::release(void)" (?release@Mat@cv@@QAEXXZ)
+main.obj : error LNK2019: unresolved external symbol "void __cdecl cv::line(class cv::_InputOutputArray const &,class cv::Point_<int>,class cv::Point_<int>,class cv::Scalar_<double> const &,int,int,int)" (?line@cv@@YAXABV_InputOutputArray@1@V?$Point_@H@1@1ABV?$Scalar_@N@1@HHH@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl cv::namedWindow(class cv::String const &,int)" (?namedWindow@cv@@YAXABVString@1@H@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl cv::imshow(class cv::String const &,class cv::_InputArray const &)" (?imshow@cv@@YAXABVString@1@ABV_InputArray@1@@Z) referenced in function _main
+D:\OPENCV\opencv\build\x64\vc14\lib\opencv_world320d.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+D:\OPENCV\opencv\build\x64\vc14\lib\opencv_world320.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\toshiba\documents\visual studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 9 unresolved externals
